@@ -1,5 +1,11 @@
+<div align="center">
+<img src="./frontend/src/img/kidtube.png" alt="KidTube">
+<br/>
+
 # KidTube        
 A video sharing platform designed for kids. The application is deployed using `Vercel` and can be accessed [here](https://kidtube-frontend.vercel.app/)
+
+</div>
 
 ## Tech Stack
 * `Node`, `Express` - server
