@@ -1,5 +1,5 @@
 # KidTube        
-A video sharing platform designed for kids.
+A video sharing platform designed for kids. The application is deployed using `Vercel` and can be accessed [here](https://kidtube-frontend.vercel.app/)
 
 ## Tech Stack
 * `Node`, `Express` - server
