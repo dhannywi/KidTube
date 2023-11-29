@@ -3,7 +3,9 @@
 # KidTube        
 A video sharing platform designed for kids. 
 <br/>
-The application is deployed using `Vercel` and can be accessed [here](https://kidtube-frontend.vercel.app/)
+The full-stack web application is developed using React, Redux, Next, Express and MongoDB. 
+<br/>
+You can access the `Vercel` deployment here: [KidTube](https://kidtube-frontend.vercel.app/)
 
 <br/>
 <img src="./frontend/src/img/kidtube.png" alt="KidTube">
