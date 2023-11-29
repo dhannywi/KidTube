@@ -3,7 +3,7 @@
 # KidTube        
 A video sharing platform designed for kids. 
 <br/>
-The full-stack web application is developed using React, Redux, Next, Express and MongoDB. 
+The full-stack web application is developed using `React`, `Redux`, `Next`, `Express` and `MongoDB`. 
 <br/>
 You can access the `Vercel` deployment here: [KidTube](https://kidtube-frontend.vercel.app/)
 
