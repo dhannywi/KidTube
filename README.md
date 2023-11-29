@@ -1,17 +1,20 @@
-## Problem Statement
-KidTube.         
-A platform that enables kids to find friendly and intuitive videos. Employing strategies like exposing children to soothing music and captivating videos can yield remarkable benefits for both parents and youngsters.
+# KidTube        
+A video sharing platform designed for kids.
 
 ## Tech Stack
-* MongoDB, Express, React, Node, HTML/CSS
-* Youtube Data API
+* `Node`, `Express` - server
+* `React`, `HTML/CSS` - frontend UI
+* `Redux` - state management
+* `Axios` - HTTP requests from node.js
+* `MongoDB` - NoSQL database
+* `Firebase` - image and video storage
+* `Postman` - API testing
+* `Jest` - Unit Testing
+* `Figma` - UI design/prototype
 
 **Please ensure that you have `node` version `v18.18.2` and `npm` version `9.8.1` installed**
 
 ## Contributors
-Vignesh
-<br>
-Dhanny Indrakusuma
-<br>
-Vibha Narayan
+* [Vignesh](https://github.com/Vignesh0404)
+* [Dhanny Indrakusuma](https://github.com/dhannywi)
 
