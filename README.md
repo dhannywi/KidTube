@@ -3,7 +3,9 @@
 <br/>
 
 # KidTube        
-A video sharing platform designed for kids. The application is deployed using `Vercel` and can be accessed [here](https://kidtube-frontend.vercel.app/)
+A video sharing platform designed for kids. 
+<br/>
+The application is deployed using `Vercel` and can be accessed [here](https://kidtube-frontend.vercel.app/)
 
 </div>
 
